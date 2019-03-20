@@ -1,0 +1,6 @@
+framework module Pods_JXXTools_Example {
+  umbrella header "Pods-JXXTools_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

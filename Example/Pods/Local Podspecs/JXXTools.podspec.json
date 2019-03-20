@@ -1,0 +1,22 @@
+{
+  "name": "JXXTools",
+  "version": "0.1.0",
+  "summary": "A Project Tool JXXTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/heartbeat986/toools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "986115849@qq.com": "986115849@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/heartbeat986/toools",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JXXTools/Classes/**/*"
+}

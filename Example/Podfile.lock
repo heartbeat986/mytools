@@ -1,0 +1,16 @@
+PODS:
+  - JXXTools (0.1.0)
+
+DEPENDENCIES:
+  - JXXTools (from `../`)
+
+EXTERNAL SOURCES:
+  JXXTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JXXTools: 2e69446bf7a4568b3dfe417dd3e327dc0b78cb7b
+
+PODFILE CHECKSUM: 54415060c44e6b62dafe97138a9f16c51bea26ce
+
+COCOAPODS: 1.6.0.beta.2

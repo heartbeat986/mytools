@@ -7,6 +7,7 @@
 //
 
 #import "JXXViewController.h"
+#import "UIColor+HexColor.h"
 
 @interface JXXViewController ()
 
