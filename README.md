@@ -23,7 +23,7 @@ pod 'JXXTools'
 
 ## Author
 
-986115849@qq.com, 986115849@qq.com
+986115849@qq.com
 
 ## License
 
