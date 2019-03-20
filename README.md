@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JXXTools
 
 [![CI Status](https://img.shields.io/travis/986115849@qq.com/JXXTools.svg?style=flat)](https://travis-ci.org/986115849@qq.com/JXXTools)
@@ -27,3 +28,6 @@ pod 'JXXTools'
 ## License
 
 JXXTools is available under the MIT license. See the LICENSE file for more info.
+=======
+# toools
+>>>>>>> d5b70474e2421d699cfc987dcf15d70ad8581db7
